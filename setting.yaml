@@ -1,0 +1,8 @@
+r18:
+  type: boolean
+  desc: Allow r18 model?
+  name: r18
+default:
+  type: number
+  desc: default model id
+  name: default

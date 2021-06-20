@@ -1,0 +1,20 @@
+{
+    "name": "@hydrooj/live2d",
+    "version": "0.0.9",
+    "main": "package.json",
+    "repository": "https://github.com/hydro-dev/Hydro.git",
+    "author": "undefined <i@undefined.moe>",
+    "license": "AGPL-3.0-or-later",
+    "preferUnplugged": true,
+    "devDependencies": {
+        "@types/koa": "^2.13.3",
+        "@types/node": "^15.12.4",
+        "hydrooj": "^2.28.44",
+        "typescript": "^4.3.4"
+    },
+    "scripts": {
+        "build": "tsc -b"
+    },
+    "peerDependencies": {},
+    "dependencies": {}
+}
